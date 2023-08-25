@@ -9,7 +9,7 @@
     "summary": "I am studying for a BBA in Management Information Systems at the University of Hawaii. I expect to graduate in Summer, 2024.",
     "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "taekim7", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "taekim7", "url": "http://github.com/taekim7" },
       { "network": "linkedin", "username": "taekim7", "url": "http://linkedin.com/in/changeme" }
 
     ]
