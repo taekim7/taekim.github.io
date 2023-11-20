@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "E4: Progress in Programming"
-# All dates must be YYYY-MM-DD format!
 date: 2023-11-20
 published: true
 labels:
